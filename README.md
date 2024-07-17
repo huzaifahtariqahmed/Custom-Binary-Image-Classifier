@@ -1,1 +1,1 @@
-# Custom-Binary-Image-Classifier
+# Custom Binary Image Classification ML Model
